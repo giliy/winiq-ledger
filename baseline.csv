@@ -1,0 +1,4 @@
+logged_at,round,budget_columns,style,picks,p_prize,p13,model_version
+2026-11-13T08:30:47Z,264501,8,favourites,1 2 1 2 1 1 1 2 1 1 1 1 1X2 1 1 12,0.0223,0.0053,winiq-v0.1
+2026-11-13T08:30:47Z,264501,36,favourites,1 2 1X2 2 1 1 1 2 12 1 1 1 1X2 1 1 12,0.0586,0.0165,winiq-v0.1
+2026-11-13T08:30:47Z,264501,144,favourites,1 12 1X2 2 1 1 1 2 1X2 1 1 1 1X2 1 1 12,0.1025,0.0321,winiq-v0.1
